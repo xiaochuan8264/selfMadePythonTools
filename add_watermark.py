@@ -26,6 +26,7 @@ def adding_watermark(img_in, text, img_out):
     # 转化成PIL类型
         img = Image.fromarray(cv2.cvtColor(img, cv2.COLOR_BGR2RGB))
     # img = Image.fromarray(img)
+    # 这里可以自己调整参数来改变水印位置以及文字大小
     left = int(w/40)
     top = h - int(h/5)
     textSize = int((h/4)/5)
