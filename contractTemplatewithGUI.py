@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 from docxtpl import DocxTemplate
 from bs4 import BeautifulSoup as bf
-import time
+import time, re
 
 class App:
     def __init__(self, root):
@@ -59,7 +59,7 @@ class App:
         sign_month = temp_time.tm_mon
         sign_day = temp_time.tm_mday
         with open(html,'r',encoding='utf-8') as f:
-            soup = bf(f.read(),'lxml')
+            content = f.read()
         data_fieldnames={"gysmc" : "partyb",
                  "frsfzh": "id",
                  "dz": "adress",
@@ -75,11 +75,23 @@ class App:
                    "day":str(sign_day)}
         for fieldname, chinese in data_fieldnames.items():    
             # 找到指定的fieldname
-            element = soup.find(attrs={"data-fieldname": fieldname})
+            # element = soup.findall(attrs={"data-fieldname": fieldname})
+            element = re.findall(r'data-fieldname="%s".*?value="(.*?)"'%(fieldname), content)
             # print(element.text)
-            child_with_value = element.find(attrs={'value': True})
-            value = child_with_value['value'] if child_with_value else None
-            context[data_fieldnames[fieldname]] = value
+            if element:
+                for value in element:
+                    if value:
+                        #child_with_value = element.find(attrs={'value': True})
+                        # value = child_with_value['value'] if child_with_value else None
+                        context[data_fieldnames[fieldname]] = value
+            else:
+                element = re.findall(r'data-fieldname="tyshxydm".*?value="(.*?)"', content)
+                #element = soup.findall(attrs={"data-fieldname": })
+                for value in element:
+                    if value:
+                        #child_with_value = element.find(attrs={'value': True})
+                        #value = child_with_value['value'] if child_with_value else None
+                        context[data_fieldnames[fieldname]] = value
             # print("%s: %s"%(fieldname, value))
         return context
     
