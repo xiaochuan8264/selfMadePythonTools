@@ -10,7 +10,7 @@ def judgeifgroup(layer):
         temp = layer.layers
         return True
     except AttributeError as e:
-        print(e)
+        # print(e)
         return False
 
 def judgeiftextlayer(layer):
@@ -19,7 +19,7 @@ def judgeiftextlayer(layer):
         temp = layer.TextItem
         return True
     except com_error as e:
-        print(e)
+        # print(e)
         return False
     except AttributeError as e2:
         print(e2)
@@ -29,17 +29,17 @@ def get_translated_text():
     # 在chatgpt翻译好后，输出到本地文本，并输入本地文本绝对地址（包括后缀名）
     root = tk.Tk()
     root.withdraw()  # Hide the root window
-    path = filedialog.askopenfilename(title="Select translated text file")
+    path = filedialog.askopenfilename(title="选择翻译后的文本文件")
     root.destroy()  # Close the root window
 
-    with open(path, 'r') as f:
+    with open(path, 'r', encoding='utf-8') as f:
         translated_dict = json.loads(f.read())
     return translated_dict
 
 def select_psd_file():
     root = tk.Tk()
     root.withdraw()  # Hide the root window
-    file_path = filedialog.askopenfilename(title="Select PSD file", filetypes=[("PSD files", "*.psd")])
+    file_path = filedialog.askopenfilename(title="选择要翻译的PSD文件", filetypes=[("PSD files", "*.psd")])
     root.destroy()  # Close the root window
     return file_path
 
@@ -70,6 +70,7 @@ raw_content = {}
 for k, v in content_dic.items():
     raw_content[k] = v.TextItem.Contents
 raw_content = json.dumps(raw_content, indent=4, ensure_ascii=False)
+print("请将以下内容复制（包括括号），并放到ChatGPT进行翻译>>>\n\n")
 print(raw_content)
 
 # 读取本地翻译后的文档
