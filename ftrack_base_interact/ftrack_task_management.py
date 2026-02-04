@@ -255,6 +255,7 @@ assign_users_by_task_name(
 )
 
 
+
 # 使用示例：批量分配
 task_assignments = {
     '3DAnimation': ['chencheng2', 'zounan', 'caolong', 'wangfeng','gengruiyang'],      # 5个执行人
@@ -277,6 +278,135 @@ batch_assign_users(
 # 以上单个资产，批量分配执行人代码成功了
 
 
+# 给任务设置标签
+def batch_set_tags(project_name, parent_name, task_tag_mapping):
+    """
+    批量为多个任务设置标签
+    
+    Args:
+        project_name: 项目名称
+        parent_name: 父对象名称
+        task_tag_mapping: 任务和标签的映射字典
+                         格式: {'任务名': ['标签1', '标签2'], ...}
+    """
+    parent = session.query(
+        f'TypedContext where name is "{parent_name}" '
+        f'and project.name is "{project_name}"'
+    ).first()
+    
+    if not parent:
+        raise ValueError(f"未找到父对象: {parent_name}")
+    
+    for task_name, tags in task_tag_mapping.items():
+        try:
+            task = session.query(
+                f'Task where name is "{task_name}" '
+                f'and parent.id is "{parent["id"]}"'
+            ).first()
+            
+            if task:
+                task['custom_attributes']['BeagleAssetsTags'] = tags
+                print(f"✓ {task_name}: {tags}")
+            else:
+                print(f"✗ 未找到任务: {task_name}")
+        
+        except Exception as e:
+            print(f"✗ 设置任务 '{task_name}' 标签时出错: {e}")
+    
+    session.commit()
+    print("\n批量设置完成！")
+
+# 使用示例
+task_tags = {
+    '3DAnimation': ['beboo'],
+    '3DStaticAssets': ['beboo', 'boss'],
+    'Concept': ['beboo'],
+    '3DVfx': ['beboo']
+}
+
+batch_set_tags(
+    project_name='BeagleAssets',
+    parent_name='rockturtle_lv1',
+    task_tag_mapping=task_tags
+)
+
+# 以上设置标签代码也已经成功
+
+
+# 设置任务描述
+def set_entity_description(entity, description):
+    """
+    为实体设置描述
+    
+    Args:
+        entity: Ftrack 实体对象（对象或任务）
+        description: 描述内容
+    """
+    entity['description'] = description
+    session.commit()
+    
+    print(f"✓ 已为 '{entity['name']}' 设置描述: {description}")
+
+# 使用示例：为 rockturtle_lv1 设置描述
+parent = session.query(
+    'TypedContext where name is "rockturtle_lv1" '
+    'and project.name is "BeagleAssets"'
+).first()
+
+set_entity_description(parent, "石龟一阶")
+
+# 上述单个对象任务描述设置成功
+
+
+def set_task_descriptions_individually(project_name, parent_name, task_descriptions):
+    """
+    为不同任务设置不同的描述
+    
+    Args:
+        project_name: 项目名称
+        parent_name: 父对象名称
+        task_descriptions: 任务和描述的映射
+                          格式: {'任务名': '描述内容', ...}
+    """
+    parent = session.query(
+        f'TypedContext where name is "{parent_name}" '
+        f'and project.name is "{project_name}"'
+    ).first()
+    
+    if not parent:
+        raise ValueError(f"未找到父对象: {parent_name}")
+    
+    for task_name, description in task_descriptions.items():
+        task = session.query(
+            f'Task where name is "{task_name}" '
+            f'and parent.id is "{parent["id"]}"'
+        ).first()
+        
+        if task:
+            task['description'] = description
+            print(f"✓ 任务 '{task_name}' 描述: {description}")
+        else:
+            print(f"✗ 未找到任务: {task_name}")
+    
+    session.commit()
+    print("\n✓ 所有任务描述设置完成！")
+
+# 使用示例：为不同任务设置不同描述
+task_desc_mapping = {
+    '3DAnimation': '动画：石龟一阶',
+    '3DStaticAssets': '3D资产：石龟一阶',
+    '3DVfx': '特效：石龟一阶',
+    'Concept': '原画：石龟一阶'
+}
+
+set_task_descriptions_individually(
+    project_name='BeagleAssets',
+    parent_name='rockturtle_lv1',
+    task_descriptions=task_desc_mapping
+)
+
+
+# 以上批量任务设置描述，成功了
 
 
 # 下面是尝试读取多维表格了
@@ -284,7 +414,7 @@ app_id = "cli_a9ee46ebc8b81cee"
 app_secret = "BHG0jHUSIRIARIEIvl6UleTOQ1AeJr3u"
 
 app_token= "Qq3Ybd9ryaX3KQsvgNWcXXgAnMf"
-table_id = "tblBA8Xy4jeVBbDU"
+table_id = "tblKGDFEjbA0X0Ak"
 
 
 import requests
