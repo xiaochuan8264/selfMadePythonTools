@@ -1,0 +1,3644 @@
+{
+  "recva4NF2lZiQB": {
+    "hash": "1a9a5becaa33cd53c43c7b2592f206fa",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "player"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "wuxiangyu@legoutech.com",
+          "en_name": "吴翔宇",
+          "id": "ou_e90998c501f84e5db64341185bddff4f",
+          "name": "吴翔宇"
+        },
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "adventurer_f",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:30:50 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "player",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "冒险家_女性",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4NF2lUnOa": {
+    "hash": "4ed03f0b0fc911d5457ab6b56adf2662",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "player"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "adventurer_m",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:30:54 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "player",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "冒险家",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4NF2lXwZU": {
+    "hash": "f4f2338a40d9f3945d964d765ec8a3b2",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "wuxiangyu@legoutech.com",
+          "en_name": "吴翔宇",
+          "id": "ou_e90998c501f84e5db64341185bddff4f",
+          "name": "吴翔宇"
+        },
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "bandameow_lv1",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:30:59 - Ftrack任务创建成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "木乃伊猫一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4NF2lohym": {
+    "hash": "c44b9a3a2280228f75bcad5a12436ede",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "cirseal_lv1",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:31:03 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "海豹一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4NF2l1z59": {
+    "hash": "fef354182aa411629df84ef27012cd3f",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "cirseal_lv2",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:31:07 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "海豹二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4NF2lXDMF": {
+    "hash": "c15b5e2534f50caa10e88736c6f65289",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "cirseal_lv3",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:31:11 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "海豹三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4NF2ltlBv": {
+    "hash": "29a0d4a7421ed8a6ee7ac0493f71b548",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "cryduck_lv1",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:31:14 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "泣疗鸭一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Aludoo": {
+    "hash": "537918f1eb036d638de27102ccc98432",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "cryduck_lv2",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:31:18 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "泣疗鸭二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Alx3J9": {
+    "hash": "7b2050c7255f89a985702493073565c4",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "cryduck_lv3",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:31:22 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "泣疗鸭三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Alv9xx": {
+    "hash": "e8a6b01055354e3d3a15442f7000d359",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "cryzard_lv1",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:31:26 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "寒冰龙一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AloDos": {
+    "hash": "e98617d9430266440102299906c224c1",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "cryzard_lv2",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:31:29 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "寒冰龙二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al6AxC": {
+    "hash": "dd24af4f2154249fa0d5cadae26a76cb",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "cryzard_lv3",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:31:33 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "寒冰龙三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al8ltq": {
+    "hash": "4e7600e51ffa3113d2161aaaf344da45",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "curioblade_lv1",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:31:37 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "螳螂一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Alf0CU": {
+    "hash": "4ab9e923891eab012bbe698d6a765a3d",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "curioblade_lv2",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:31:41 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "螳螂二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlXUxH": {
+    "hash": "e157f930fe12db38c72437e585dac71c",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "curioblade_lv3",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:31:45 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "螳螂三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al8ZDb": {
+    "hash": "faf3d5f7394ffb5542e3eebf1a90b534",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "shangmingchen@legoutech.com",
+          "en_name": "商明晨",
+          "id": "ou_26d6c2640bc9647982b5acabe414b477",
+          "name": "商明晨"
+        },
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "curlsprout_lv1",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:31:49 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "恐龙（草）一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlH8nG": {
+    "hash": "6d17c18289a789e6950fd6920bed79ba",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "shangmingchen@legoutech.com",
+          "en_name": "商明晨",
+          "id": "ou_26d6c2640bc9647982b5acabe414b477",
+          "name": "商明晨"
+        },
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "curlsprout_lv2",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:31:52 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "恐龙（草）二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlwNJF": {
+    "hash": "2d721aae79c0a87ad497c89838c65d15",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "shangmingchen@legoutech.com",
+          "en_name": "商明晨",
+          "id": "ou_26d6c2640bc9647982b5acabe414b477",
+          "name": "商明晨"
+        },
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "curlsprout_lv3",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:31:56 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "恐龙（草）三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Aln83C": {
+    "hash": "9e5ece73082688f38ae1726793a6c2e9",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhouzishu@legoutech.com",
+          "en_name": "周子舒",
+          "id": "ou_c9db72ce0bff9c302edf56007e0b7721",
+          "name": "周子舒"
+        },
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "flamerabbit_lv1",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:32:00 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "兔子一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al8pcA": {
+    "hash": "b2e00db827773f6bcf243e776f377e73",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhouzishu@legoutech.com",
+          "en_name": "周子舒",
+          "id": "ou_c9db72ce0bff9c302edf56007e0b7721",
+          "name": "周子舒"
+        },
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "flamerabbit_lv2",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:32:04 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "兔子二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlLkHO": {
+    "hash": "72a78f1336e2857886f458eb5e85941a",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhouzishu@legoutech.com",
+          "en_name": "周子舒",
+          "id": "ou_c9db72ce0bff9c302edf56007e0b7721",
+          "name": "周子舒"
+        },
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "flamerabbit_lv3",
+          "type": "text"
+        }
+      ],
+      "更新&创建记录": [
+        {
+          "text": "2026-02-04 23:32:07 - Ftrack任务更新成功",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "兔子三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al6DHF": {
+    "hash": "812d724fa648a7612fbdfa630ec11852",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "peepsprout_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "草鸟一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al1vrU": {
+    "hash": "98febc4af03e9bab596b232863341cc9",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "peepsprout_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "草鸟二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlmhWS": {
+    "hash": "2ca0b32c76d959a29b854499e8c47c0b",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "peepsprout_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "草鸟三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al5YWv": {
+    "hash": "d489df9beea4ade6cba6d0ca340947d7",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "polaree_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "电鹿一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlT6dx": {
+    "hash": "dc66f80b45b6c3059b99286e0230d27f",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "polaree_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "电鹿二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlKRxd": {
+    "hash": "4f8ba089e2d53b5e68a01678700e5d00",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "polaree_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "电鹿三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlerVd": {
+    "hash": "eb1f2f879e7b3d6ffac87c358a332000",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "roclet_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "哥斯拉一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlyruH": {
+    "hash": "ef27629c523fe7931a0aa687480d1077",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "roclet_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "哥斯拉二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlUw1B": {
+    "hash": "cd03409f310c3b3a5fbadb3833f99024",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "roclet_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "哥斯拉三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlWx7M": {
+    "hash": "3b9080ba03b4c2e6cf4480bce39bbc85",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "wangjun@legoutech.com",
+          "en_name": "王俊",
+          "id": "ou_de8d305a4edaf3687bd91bc2c11bcd7c",
+          "name": "王俊"
+        },
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "rollmunk_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "松鼠一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlArgj": {
+    "hash": "a3df00edf4735df6772c2e1b105c4425",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "wangjun@legoutech.com",
+          "en_name": "王俊",
+          "id": "ou_de8d305a4edaf3687bd91bc2c11bcd7c",
+          "name": "王俊"
+        },
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "rollmunk_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "松鼠三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlAPTq": {
+    "hash": "d124eb18b6525330c019e5df34945d37",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "wangjun@legoutech.com",
+          "en_name": "王俊",
+          "id": "ou_de8d305a4edaf3687bd91bc2c11bcd7c",
+          "name": "王俊"
+        },
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "rollmunk_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "松鼠二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlNrb3": {
+    "hash": "43c635feae4499abba790625ac5de1e3",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "wuxiangyu@legoutech.com",
+          "en_name": "吴翔宇",
+          "id": "ou_e90998c501f84e5db64341185bddff4f",
+          "name": "吴翔宇"
+        },
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "sharklet_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "鲨鱼一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Alnqfo": {
+    "hash": "5914a5251a8fca2ec7f6f04a50d00a25",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "wuxiangyu@legoutech.com",
+          "en_name": "吴翔宇",
+          "id": "ou_e90998c501f84e5db64341185bddff4f",
+          "name": "吴翔宇"
+        },
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "sharklet_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "鲨鱼二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al3tUa": {
+    "hash": "a84e1eb6b40f864d678e28874807e598",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "wuxiangyu@legoutech.com",
+          "en_name": "吴翔宇",
+          "id": "ou_e90998c501f84e5db64341185bddff4f",
+          "name": "吴翔宇"
+        },
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "sharklet_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "鲨鱼三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlNR3i": {
+    "hash": "1720f66467ff140156dcb1e0073e0265",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "shieldling_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "寄居蟹一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlOp0j": {
+    "hash": "460f68cd29f41edea9d6c9dbdef53037",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "shieldling_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "寄居蟹二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AloHnx": {
+    "hash": "8c51ee6819885f7a86955a5a43729e17",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "shieldling_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "寄居蟹三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlWgee": {
+    "hash": "a8d43b289402bd61b69e1ca47107af17",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "sparkit_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "三头犬一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AltWt1": {
+    "hash": "94128fbc3032b3923c5d335b00186ca7",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "sparkit_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "三头犬二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlO2bm": {
+    "hash": "5974922d149154e6e665b03dfb3ffb8d",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "sparkit_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "三头犬三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlSvxo": {
+    "hash": "add5b0e601a035a9e5715957fb68802e",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "stonkey_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "石猴一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AleRJH": {
+    "hash": "34857721c2c90f30f112dba0462093a5",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "stonkey_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "石猴二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlLCiO": {
+    "hash": "3339df753a17b38d14b05cc1d9d819d9",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "stonkey_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "石猴三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al3MB9": {
+    "hash": "e18715321af352cf8a0411e4bb368cd5",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "voltpup_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "电狗一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al2V0Q": {
+    "hash": "27b22c1b02cb800b4daccf1f57306d3f",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "voltpup_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "电狗二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlvYXR": {
+    "hash": "c44fc80e6f59508407427d23858fcc77",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "voltpup_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "电狗三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlxNG8": {
+    "hash": "c90fd3f18c37dca6d4c7df11fd51a437",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "wickster_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "焦焰蝴蝶一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Alv3di": {
+    "hash": "b277677251cbe3ec67a6e8846baff002",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "wickster_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "焦焰蝴蝶二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlcoJC": {
+    "hash": "36c509275eadf9125ffd5cf0a7ea46ae",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "wickster_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "焦焰蝴蝶三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Alvvn9": {
+    "hash": "c07c1bbef8bac7e0a06f096d48059709",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "wuxiangyu@legoutech.com",
+          "en_name": "吴翔宇",
+          "id": "ou_e90998c501f84e5db64341185bddff4f",
+          "name": "吴翔宇"
+        },
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "zapsqueak_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "老鼠一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlulG9": {
+    "hash": "f8b0c45b42e86d06db8545df1f05a424",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "wuxiangyu@legoutech.com",
+          "en_name": "吴翔宇",
+          "id": "ou_e90998c501f84e5db64341185bddff4f",
+          "name": "吴翔宇"
+        },
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "zapsqueak_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "老鼠二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlXzkY": {
+    "hash": "02674ef3c6c727d6cbabfcf5a24b7969",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "wuxiangyu@legoutech.com",
+          "en_name": "吴翔宇",
+          "id": "ou_e90998c501f84e5db64341185bddff4f",
+          "name": "吴翔宇"
+        },
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "zapsqueak_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "老鼠三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlPz72": {
+    "hash": "5abae51acd9ed4371eea15d5cf53a04e",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "wuxiangyu@legoutech.com",
+          "en_name": "吴翔宇",
+          "id": "ou_e90998c501f84e5db64341185bddff4f",
+          "name": "吴翔宇"
+        },
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "bandameow_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "木乃伊猫三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AllJ6s": {
+    "hash": "aaebaa18c850001acb2db768dac3b246",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "npc"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "wuxiangyu@legoutech.com",
+          "en_name": "吴翔宇",
+          "id": "ou_e90998c501f84e5db64341185bddff4f",
+          "name": "吴翔宇"
+        },
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "fire_leader",
+          "type": "text"
+        }
+      ],
+      "父对象": "npc",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "火系馆主：摇滚主唱",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al8BzL": {
+    "hash": "5598ee3ef825cc9c04e304b8c9fc59c8",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "npc"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "shangmingchen@legoutech.com",
+          "en_name": "商明晨",
+          "id": "ou_26d6c2640bc9647982b5acabe414b477",
+          "name": "商明晨"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "water_leader",
+          "type": "text"
+        }
+      ],
+      "父对象": "npc",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "水系馆主：冲浪美少女",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlWHgi": {
+    "hash": "2a4ca970054b632306505ac494dc5537",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "npc"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "wangjun@legoutech.com",
+          "en_name": "王俊",
+          "id": "ou_de8d305a4edaf3687bd91bc2c11bcd7c",
+          "name": "王俊"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "assistant",
+          "type": "text"
+        }
+      ],
+      "父对象": "npc",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "教官：电子叽",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4ZGvdNNz7": {
+    "hash": "1ea717eccccc303052ed99089f2791a5",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        },
+        {
+          "email": "yixiang@legoutech.com",
+          "en_name": "易翔",
+          "id": "ou_b62d87fd3bd6ce5839d8eb90acb0fd20",
+          "name": "易翔"
+        }
+      ],
+      "Ftrack创建状态": "已创建",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        },
+        {
+          "email": "chencheng2@legoutech.com",
+          "en_name": "陈诚",
+          "id": "ou_3040583f6c19cc41984b9e15d223f703",
+          "name": "陈诚"
+        },
+        {
+          "email": "caolong@legoutech.com",
+          "en_name": "曹龙",
+          "id": "ou_3f56125de4783c4b3d5c61a78f01227e",
+          "name": "曹龙"
+        },
+        {
+          "email": "gengruiyang@legoutech.com",
+          "en_name": "耿瑞阳",
+          "id": "ou_259047b043d934ea251ecc5509a5240f",
+          "name": "耿瑞阳"
+        },
+        {
+          "email": "wangfeng@legoutech.com",
+          "en_name": "王凤",
+          "id": "ou_2c8aa30bae4ed0653e7c2180f6db53a4",
+          "name": "王凤"
+        },
+        {
+          "email": "chenmaojing@legoutech.com",
+          "en_name": "陈茂菁",
+          "id": "ou_5c1cf8820e5e1dc49fc8724a13a6eb99",
+          "name": "陈茂菁"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "rockturtle_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "石龟一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva50oDK0ZsS": {
+    "hash": "94bb2767ce47ceb3e35c9d3bb5188084",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        },
+        {
+          "email": "yixiang@legoutech.com",
+          "en_name": "易翔",
+          "id": "ou_b62d87fd3bd6ce5839d8eb90acb0fd20",
+          "name": "易翔"
+        }
+      ],
+      "Ftrack创建状态": "创建中",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        },
+        {
+          "email": "chencheng2@legoutech.com",
+          "en_name": "陈诚",
+          "id": "ou_3040583f6c19cc41984b9e15d223f703",
+          "name": "陈诚"
+        },
+        {
+          "email": "caolong@legoutech.com",
+          "en_name": "曹龙",
+          "id": "ou_3f56125de4783c4b3d5c61a78f01227e",
+          "name": "曹龙"
+        },
+        {
+          "email": "gengruiyang@legoutech.com",
+          "en_name": "耿瑞阳",
+          "id": "ou_259047b043d934ea251ecc5509a5240f",
+          "name": "耿瑞阳"
+        },
+        {
+          "email": "wangfeng@legoutech.com",
+          "en_name": "王凤",
+          "id": "ou_2c8aa30bae4ed0653e7c2180f6db53a4",
+          "name": "王凤"
+        },
+        {
+          "email": "chenmaojing@legoutech.com",
+          "en_name": "陈茂菁",
+          "id": "ou_5c1cf8820e5e1dc49fc8724a13a6eb99",
+          "name": "陈茂菁"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "rockturtle_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "石龟二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recvafmlFyJ2ZS": {
+    "hash": "e6a6d8acf0cf62a282e46da2e99434b2",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        },
+        {
+          "email": "yixiang@legoutech.com",
+          "en_name": "易翔",
+          "id": "ou_b62d87fd3bd6ce5839d8eb90acb0fd20",
+          "name": "易翔"
+        }
+      ],
+      "Ftrack创建状态": "创建中",
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        },
+        {
+          "email": "chencheng2@legoutech.com",
+          "en_name": "陈诚",
+          "id": "ou_3040583f6c19cc41984b9e15d223f703",
+          "name": "陈诚"
+        },
+        {
+          "email": "caolong@legoutech.com",
+          "en_name": "曹龙",
+          "id": "ou_3f56125de4783c4b3d5c61a78f01227e",
+          "name": "曹龙"
+        },
+        {
+          "email": "gengruiyang@legoutech.com",
+          "en_name": "耿瑞阳",
+          "id": "ou_259047b043d934ea251ecc5509a5240f",
+          "name": "耿瑞阳"
+        },
+        {
+          "email": "wangfeng@legoutech.com",
+          "en_name": "王凤",
+          "id": "ou_2c8aa30bae4ed0653e7c2180f6db53a4",
+          "name": "王凤"
+        },
+        {
+          "email": "chenmaojing@legoutech.com",
+          "en_name": "陈茂菁",
+          "id": "ou_5c1cf8820e5e1dc49fc8724a13a6eb99",
+          "name": "陈茂菁"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "rockturtle_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "石龟三阶",
+          "type": "text"
+        }
+      ]
+    }
+  }
+}
