@@ -1,0 +1,1504 @@
+{
+  "recva4NF2lZiQB": {
+    "hash": "323279b83ef931ad7519f7819b61ab0c",
+    "fields": {
+      "Ftrack标签": [
+        "player"
+      ],
+      "开发名": [
+        {
+          "text": "adventurer_f",
+          "type": "text"
+        }
+      ],
+      "父对象": "player",
+      "资产(描述)": [
+        {
+          "text": "冒险家_女性",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4NF2lUnOa": {
+    "hash": "59b40062d9ec659f4e158b4031b6fcc3",
+    "fields": {
+      "Ftrack标签": [
+        "player"
+      ],
+      "开发名": [
+        {
+          "text": "adventurer_m",
+          "type": "text"
+        }
+      ],
+      "父对象": "player",
+      "资产(描述)": [
+        {
+          "text": "冒险家",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4NF2lXwZU": {
+    "hash": "b68249dd4f6c77d39b2f9b0e428637d3",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "bandameow_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "木乃伊猫一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4NF2l4FZp": {
+    "hash": "16beb4f402af13b5567b9c54eb7fbec3",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "beatjellion_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "水母一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4NF2lwe4F": {
+    "hash": "71e155c1db99a65d300cb27253b3aa17",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "beatjellion_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "水母二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4NF2lHSnB": {
+    "hash": "c385999680b0ce548edc297a28eb0b33",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "beatjellion_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "水母三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4NF2lohym": {
+    "hash": "85784c369ee55995c39d6735782b6cd3",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "cirseal_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "海豹一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4NF2l1z59": {
+    "hash": "cc79d3723977427a54ab7e12e44303df",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "cirseal_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "海豹二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4NF2lXDMF": {
+    "hash": "1053dc24d886b01e3b506421ede8ba18",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "cirseal_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "海豹三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4NF2ltlBv": {
+    "hash": "a0c7b739be541344175bb66b293a9392",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "cryduck_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "泣疗鸭一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Aludoo": {
+    "hash": "a5dbc8244e5ec3b9a84ddbac3ce9822d",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "cryduck_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "泣疗鸭二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Alx3J9": {
+    "hash": "bf3a25e4bca987ec106843d23cc4d56f",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "cryduck_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "泣疗鸭三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Alv9xx": {
+    "hash": "115992e93c5ab0ede4a2a11b4547477a",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "cryzard_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "寒冰龙一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AloDos": {
+    "hash": "53c575bd1a9a7dae6988689de39397c3",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "cryzard_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "寒冰龙二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al6AxC": {
+    "hash": "b56cb0f72aef60c098c7e4ff11fa0e2b",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "cryzard_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "寒冰龙三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al8ltq": {
+    "hash": "442a392720936b018b7656606105c1c7",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "curioblade_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "螳螂一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Alf0CU": {
+    "hash": "b337b3551f3983b99029b984cff5a145",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "curioblade_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "螳螂二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlXUxH": {
+    "hash": "9e1043ca99e2be4265388699c48cdf76",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "curioblade_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "螳螂三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al8ZDb": {
+    "hash": "dec4e36098d112fda0e5437ba5d0876a",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "curlsprout_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "恐龙（草）一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlH8nG": {
+    "hash": "715c51de0ee3031e489698a09ed2fecc",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "curlsprout_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "恐龙（草）二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlwNJF": {
+    "hash": "c57fce1a5a9b297893cec1e554503bf2",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "curlsprout_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "恐龙（草）三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Aln83C": {
+    "hash": "517105a243a7e9032dba587a141a1a72",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "flamerabbit_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "兔子一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al8pcA": {
+    "hash": "c52085ed7a1d7416089ca3a09885a3e3",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "flamerabbit_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "兔子二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlLkHO": {
+    "hash": "a078e1b39996d9e7a75be34ebbbcdad3",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "flamerabbit_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "兔子三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al6DHF": {
+    "hash": "5fd761dbece5646d75289ea49911b23e",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "peepsprout_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "草鸟一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al1vrU": {
+    "hash": "e9a88f64da73cd766c70e234ce044cb0",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "peepsprout_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "草鸟二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlmhWS": {
+    "hash": "355009f2ce6ec71c155d4489711ca632",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "peepsprout_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "草鸟三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al5YWv": {
+    "hash": "b0e6696596a1fe57546dc81793a92625",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "polaree_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "电鹿一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlT6dx": {
+    "hash": "745f6723c326b757db5f46b3706fbc3a",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "polaree_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "电鹿二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlKRxd": {
+    "hash": "6cd1605eb83f2ef9e8bd0dc4dc4b5163",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "polaree_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "电鹿三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlerVd": {
+    "hash": "5b80de5984102f140fe8a0735e987822",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "roclet_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "哥斯拉一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlyruH": {
+    "hash": "e485db8392a2e00fd75d7313cef03a0d",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "roclet_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "哥斯拉二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlUw1B": {
+    "hash": "7aad20857f04760b5f3731ccf1e67530",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "roclet_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "哥斯拉三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlWx7M": {
+    "hash": "99d117523ab5aa6dd0ecd46a8e2867b7",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "rollmunk_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "松鼠一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlArgj": {
+    "hash": "cb7847b89442d6281fc57046ccbac306",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "rollmunk_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "松鼠三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlAPTq": {
+    "hash": "139864fb3089ce5562f2a44112899720",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "rollmunk_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "松鼠二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlNrb3": {
+    "hash": "1ae2865e3390d62dddc1bf5b97c401da",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "sharklet_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "鲨鱼一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Alnqfo": {
+    "hash": "b58119981870c325e0d91dec76f0c870",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "sharklet_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "鲨鱼二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al3tUa": {
+    "hash": "c35e5b0c41fe632c8014493e4b7ffd23",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "sharklet_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "鲨鱼三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlNR3i": {
+    "hash": "4d1534754bfebfce1184c86ecfe716ec",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "shieldling_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "寄居蟹一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlOp0j": {
+    "hash": "c18bf0a17fcf0e21044add651ca9c1a5",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "shieldling_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "寄居蟹二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AloHnx": {
+    "hash": "269118b9e4e8d19103640059ea3bc94a",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "shieldling_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "寄居蟹三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlWgee": {
+    "hash": "8a6d9fc61d96d6d9e7bca0cb573c007f",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "sparkit_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "三头犬一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AltWt1": {
+    "hash": "f55063ad9a447c2804255b39de2cc52d",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "sparkit_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "三头犬二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlO2bm": {
+    "hash": "621fd8babffb9ee6200951525cb7464d",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "sparkit_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "三头犬三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlSvxo": {
+    "hash": "36a17f2f29f3faa45839495acd28c5ee",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "stonkey_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "石猴一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AleRJH": {
+    "hash": "00eeeb04970494f3e19edb2c594e9a47",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "stonkey_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "石猴二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlLCiO": {
+    "hash": "f20096188217fbbf3e788c8d76edb775",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "stonkey_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "石猴三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al3MB9": {
+    "hash": "18e69f0f651c538e4b086dc40e095e0b",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "voltpup_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "电狗一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al2V0Q": {
+    "hash": "8da23ab39cb8ee9e162530393523f67f",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "voltpup_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "电狗二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlvYXR": {
+    "hash": "78bb181e0572f0a632a066b251bc4303",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "voltpup_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "电狗三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlxNG8": {
+    "hash": "6b92c54d16aeb6c57da5eb3c8f021d10",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "wickster_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "焦焰蝴蝶一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Alv3di": {
+    "hash": "1a8fa43b7744eecc1bfe1f794a1b5fab",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "wickster_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "焦焰蝴蝶二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlcoJC": {
+    "hash": "742e381f676a1a0f886a6579923b86ca",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "wickster_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "焦焰蝴蝶三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Alvvn9": {
+    "hash": "6db4d57d9a6276014d3e55a6f56820c9",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "zapsqueak_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "老鼠一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlulG9": {
+    "hash": "24e72357400625fdadd752376ccc78d2",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "zapsqueak_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "老鼠二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlXzkY": {
+    "hash": "93f2564b8686ad5611edafa70aa5a0bf",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "zapsqueak_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "老鼠三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AleD9c": {
+    "hash": "d24537fdcdb0c2309e783dbd36ed0631",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "bandameow_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "木乃伊猫二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlPz72": {
+    "hash": "d42414a522838d6a3eaf8c6897e09716",
+    "fields": {
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "开发名": [
+        {
+          "text": "bandameow_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "资产(描述)": [
+        {
+          "text": "木乃伊猫三阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AllJ6s": {
+    "hash": "5dc7f38322d16ae6a1a7ad9861e4e58d",
+    "fields": {
+      "Ftrack标签": [
+        "npc"
+      ],
+      "开发名": [
+        {
+          "text": "fire_leader",
+          "type": "text"
+        }
+      ],
+      "父对象": "npc",
+      "资产(描述)": [
+        {
+          "text": "火系馆主：摇滚主唱",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3Al8BzL": {
+    "hash": "fdbce6c9c2daff1ef1ed453db760b8a0",
+    "fields": {
+      "Ftrack标签": [
+        "npc"
+      ],
+      "开发名": [
+        {
+          "text": "water_leader",
+          "type": "text"
+        }
+      ],
+      "父对象": "npc",
+      "资产(描述)": [
+        {
+          "text": "水系馆主：冲浪美少女",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4P3AlWHgi": {
+    "hash": "ca19ee50cd8747d4d96cb2a005276198",
+    "fields": {
+      "Ftrack标签": [
+        "npc"
+      ],
+      "开发名": [
+        {
+          "text": "assistant",
+          "type": "text"
+        }
+      ],
+      "父对象": "npc",
+      "资产(描述)": [
+        {
+          "text": "教官：电子叽",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva4ZGvdNNz7": {
+    "hash": "1ea717eccccc303052ed99089f2791a5",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        },
+        {
+          "email": "yixiang@legoutech.com",
+          "en_name": "易翔",
+          "id": "ou_b62d87fd3bd6ce5839d8eb90acb0fd20",
+          "name": "易翔"
+        }
+      ],
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        },
+        {
+          "email": "chencheng2@legoutech.com",
+          "en_name": "陈诚",
+          "id": "ou_3040583f6c19cc41984b9e15d223f703",
+          "name": "陈诚"
+        },
+        {
+          "email": "caolong@legoutech.com",
+          "en_name": "曹龙",
+          "id": "ou_3f56125de4783c4b3d5c61a78f01227e",
+          "name": "曹龙"
+        },
+        {
+          "email": "gengruiyang@legoutech.com",
+          "en_name": "耿瑞阳",
+          "id": "ou_259047b043d934ea251ecc5509a5240f",
+          "name": "耿瑞阳"
+        },
+        {
+          "email": "wangfeng@legoutech.com",
+          "en_name": "王凤",
+          "id": "ou_2c8aa30bae4ed0653e7c2180f6db53a4",
+          "name": "王凤"
+        },
+        {
+          "email": "chenmaojing@legoutech.com",
+          "en_name": "陈茂菁",
+          "id": "ou_5c1cf8820e5e1dc49fc8724a13a6eb99",
+          "name": "陈茂菁"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "rockturtle_lv1",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "石龟一阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recva50oDK0ZsS": {
+    "hash": "94bb2767ce47ceb3e35c9d3bb5188084",
+    "fields": {
+      "3D对接": [
+        {
+          "email": "qinzhen@legoutech.com",
+          "en_name": "秦臻",
+          "id": "ou_275b09318b5a8e738e3a032c3634b10d",
+          "name": "秦臻"
+        },
+        {
+          "email": "yixiang@legoutech.com",
+          "en_name": "易翔",
+          "id": "ou_b62d87fd3bd6ce5839d8eb90acb0fd20",
+          "name": "易翔"
+        }
+      ],
+      "Ftrack标签": [
+        "beboo"
+      ],
+      "动画对接": [
+        {
+          "email": "zounan@legoutech.com",
+          "en_name": "邹南",
+          "id": "ou_38498f8dae914b85e492a31527404f56",
+          "name": "邹南"
+        },
+        {
+          "email": "chencheng2@legoutech.com",
+          "en_name": "陈诚",
+          "id": "ou_3040583f6c19cc41984b9e15d223f703",
+          "name": "陈诚"
+        },
+        {
+          "email": "caolong@legoutech.com",
+          "en_name": "曹龙",
+          "id": "ou_3f56125de4783c4b3d5c61a78f01227e",
+          "name": "曹龙"
+        },
+        {
+          "email": "gengruiyang@legoutech.com",
+          "en_name": "耿瑞阳",
+          "id": "ou_259047b043d934ea251ecc5509a5240f",
+          "name": "耿瑞阳"
+        },
+        {
+          "email": "wangfeng@legoutech.com",
+          "en_name": "王凤",
+          "id": "ou_2c8aa30bae4ed0653e7c2180f6db53a4",
+          "name": "王凤"
+        },
+        {
+          "email": "chenmaojing@legoutech.com",
+          "en_name": "陈茂菁",
+          "id": "ou_5c1cf8820e5e1dc49fc8724a13a6eb99",
+          "name": "陈茂菁"
+        }
+      ],
+      "原画对接": [
+        {
+          "email": "zhangjiashuai@legoutech.com",
+          "en_name": "张家帅",
+          "id": "ou_39a6867e8ff1f73cfe389697ffd1e07c",
+          "name": "张家帅"
+        }
+      ],
+      "开发名": [
+        {
+          "text": "rockturtle_lv2",
+          "type": "text"
+        }
+      ],
+      "父对象": "beboo",
+      "特效对接": [
+        {
+          "email": "hechengming@legoutech.com",
+          "en_name": "何成铭",
+          "id": "ou_70b5e5c6a70a27d1b9cf16b587b6372f",
+          "name": "何成铭"
+        }
+      ],
+      "资产(描述)": [
+        {
+          "text": "石龟二阶",
+          "type": "text"
+        }
+      ]
+    }
+  },
+  "recvab0l0zlL77": {
+    "hash": "601f3d55c48b0b98c196623acfce3794",
+    "fields": {
+      "Ftrack标签": [
+        "beboo",
+        "camp"
+      ],
+      "开发名": [
+        {
+          "text": "rockturtle_lv3",
+          "type": "text"
+        }
+      ],
+      "父对象": "npc",
+      "资产(描述)": [
+        {
+          "text": "石龟三阶",
+          "type": "text"
+        }
+      ]
+    }
+  }
+}
