@@ -473,11 +473,11 @@ if __name__ == '__main__':
     TABLE_ID = 'your_table_id'
     
     # 获取token
-    token = get_tenant_access_token(APP_ID, APP_SECRET)
+    token = get_tenant_access_token(app_id, app_secret)
     print(f"Token: {token}")
     
     # 读取数据
-    records = get_bitable_records(token, APP_TOKEN, TABLE_ID)
+    records = get_bitable_records(token, app_token, table_id)
     
     # 处理数据
     for record in records:
@@ -487,3 +487,4 @@ if __name__ == '__main__':
 
 
  # 以上代码已经可以成功读取多维表格数据（所有token已经配置正确，当前配置的是角色表格）
+
